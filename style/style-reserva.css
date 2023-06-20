@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #282828;
+    color: #fff;
+    font-family: 'Montserrat';
+
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: flex;
+}
+
+textarea{
+    display: block;
+    background-color: #D9D9D9;
+    width: 300px;
+    margin-left: 5.5vh;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    resize: none;
+}
+
+button{
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+svg{
+    margin-left: -4vh;
+    margin-top: 0.7vh;
+}
+
+.cabecario{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.botao_voltar{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin: 10px;
+}
+.voltar_text{
+    display: block;
+}
+
+.voltar_text:hover{
+    color: white;
+    transition: 0.7s;
+    border-bottom: solid 3px #F3C13F;
+    font-size: 20px;
+}
+
+.box_titulo{
+    width: 80%;
+    text-align: center;
+}
+
+.main{
+    height: 630px;
+    border-radius: 40px;
+    background-color: white;
+    color: black;
+    width: 400px;
+    margin-left: 73vh;
+    font-family: cursive
+    
+}
+
+.main p{
+    text-align: center;
+    letter-spacing: 0.5px
+}
+
+.info{
+    padding-left: 25vh;
+}
+
+#esp{
+    padding-left: 21.8vh;
+}
+
+.btn-reservar{
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    background-color: #ffc506;
+    border-radius: 50px;
+    font-size: small;
+    font-weight: 800;
+    color: white;
+    margin-left: 16vh;
+    margin-top: 8vh;
+    transition: all 400ms ease-in;
+}
+
+.btn-reservar:hover{
+    transform: scale(110%);
+    border: 1px solid #ffc506;
+    background-color: transparent;
+    color: #ffc506;
+}
