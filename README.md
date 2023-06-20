@@ -19,8 +19,11 @@ O celeiro da carne é um restaurante especializado em comidas rústicas, princip
 O site foi desenvolvido pelos estudantes do SENAI utilizando as seguintes tecnologias:
 
 HTML5: Linguagem de marcação para estruturar e apresentar o conteúdo do site.
+
 CSS3: Folhas de estilo para estilizar e melhorar a aparência do site.
+
 JavaScript: Linguagem de programação para adicionar interatividade e funcionalidades avançadas ao site.
+
 GitHub: Plataforma de hospedagem de código-fonte que permite o compartilhamento e colaboração do projeto.
 
 
