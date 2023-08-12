@@ -26,6 +26,6 @@ JavaScript: Linguagem de programação para adicionar interatividade e funcional
 
 GitHub: Plataforma de hospedagem de código-fonte que permite o compartilhamento e colaboração do projeto.
 
-
-https://github.com/kauetrigolo/O-celeiro-da-carne-site/assets/131711415/c463343b-75cd-409b-8b7e-9918903f62b7
+# Acesse o site pelo link abaixo
+https://fanciful-druid-a669b2.netlify.app/
 
